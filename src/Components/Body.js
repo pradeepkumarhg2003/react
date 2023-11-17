@@ -14,7 +14,7 @@ const Body = () => {
     const [fruits, setFruits] = useState([
         { fruit: 'water melon' },
         { fruit: 'apple' },
-        {fruit:'mango'}
+        {fruit:'pineapple'}
     ])
 
     return (
